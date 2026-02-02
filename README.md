@@ -1,1 +1,3 @@
 # Aquagrade-AI
+
+AquaGrade AI is an AI-powered fish quality assessment system built during a hackathon to address the subjectivity and inconsistency of manual seafood grading. The platform uses a ResNet-based computer vision model to analyze fish images, identify species, assess freshness, and estimate market value in real time. It features a modern React + TypeScript frontend integrated with a Flask API and a PostgreSQL (Supabase) backend for seamless end-to-end processing. By delivering fast, objective, and data-driven quality evaluations, AquaGrade AI demonstrates how AI can improve decision-making and efficiency across the fishing and seafood supply chain.
