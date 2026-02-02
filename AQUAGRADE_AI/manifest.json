@@ -1,0 +1,31 @@
+{
+  "team_name": "AquaGrade AI",
+  "freeze_timestamp": "2025-10-01T23:59:00+09:00",
+  "licenses": [
+    {
+      "component": "Model: best_real_only_model.pth",
+      "license": "Custom - Trained on proprietary dataset",
+      "link": "N/A - Internal training"
+    },
+    {
+      "component": "Dataset: Fish_Dataset",
+      "license": "Custom - Proprietary fish images",
+      "link": "N/A - Internal dataset"
+    },
+    {
+      "component": "PyTorch",
+      "license": "BSD License",
+      "link": "https://github.com/pytorch/pytorch/blob/master/LICENSE"
+    },
+    {
+      "component": "Streamlit",
+      "license": "Apache-2.0",
+      "link": "https://github.com/streamlit/streamlit/blob/develop/LICENSE"
+    },
+    {
+      "component": "React/Vite",
+      "license": "MIT License",
+      "link": "https://github.com/vitejs/vite/blob/main/LICENSE"
+    }
+  ]
+}
